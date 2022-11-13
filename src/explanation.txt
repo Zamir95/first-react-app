@@ -1,0 +1,2 @@
+line 26: array holding 2 classes convert it into a string where all all the class names are seperated by a space using join and pass an empty space and convert array imnto string where all elemtns are seperated by spaces
+line 68 app.module.css: cursor: pointer;  lets you click watch image
