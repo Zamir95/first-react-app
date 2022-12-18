@@ -1,6 +1,6 @@
 const ProductData = {
 	title: 'Apple Watch - Fastest Smart Watch To Use',
-	description: 'The Latest innovation that can track workouts, read/send texts answer phone class and do more.',
+	description: 'The Latest innovation that can track workouts, read/send texts answer phone calls and do more.',
 	colorOptions: [
 		{
 			styleName: 'Black Strap',
