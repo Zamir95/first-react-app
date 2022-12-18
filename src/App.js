@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 
-import classes from './App.module.css';
+import classes from './App.module.css'
 import ProductPreview from './ProductPreview/ProductPreview';
 import ProductDetails from './ProductDetails/ProductDetails';
-import Topbar from './Topbar/Topbar.module.css';
+import Topbar from './Topbar/Topbar';
 import ProductData from './Utils/ProductData';
 
 class App extends Component {
